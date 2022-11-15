@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "Event Sleuth",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "description": "Find your events",
+    "keywords": ["events", "things to do", "search"],
+    "license": "proprietary",
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
